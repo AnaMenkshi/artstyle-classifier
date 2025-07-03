@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Jupyter Notebooks (optional checkpoints)
+.ipynb_checkpoints/
+
+# Model files and large binaries
+*.h5
+
+
+
+# paintings_samples
