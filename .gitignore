@@ -13,9 +13,5 @@ env/
 # Jupyter Notebooks (optional checkpoints)
 .ipynb_checkpoints/
 
-# Model files and large binaries
-*.h5
-
-
 
 # paintings_samples
