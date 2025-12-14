@@ -53,7 +53,7 @@ The username:art ,the pasword:art.
 ---
 
 ##  Web App
-- Built with **Gradio** (and optionally Streamlit)
+- Built with **Gradio** 
 - Features:
   - Upload a painting ➔ Get style prediction
   - User-friendly and responsive interface
