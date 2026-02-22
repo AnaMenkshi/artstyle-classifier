@@ -12,7 +12,7 @@ Built by Ana Menkshi and Fatjona Murrani, this system also includes an interacti
 - Includes an easy-to-use **web app** (Gradio / Streamlit)
 - Deployed on Hugging Face Spaces for public use
 
- **Try the App:** [ArtStyle Classifier on Hugging Face](https://huggingface.co/spaces/menkshi/ARTAF)
+Try the App: [ArtStyle Classifier on Hugging Face](https://huggingface.co/spaces/menkshi/ARTAF)
 The username:art ,the pasword:art.
 ---
 
