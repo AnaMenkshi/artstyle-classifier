@@ -1,6 +1,7 @@
 # artstyle-classifier
 AI project to classify artworks by painting style.
 
+
 # 🎨 ArtStyle Classifier
 
 A machine learning project leveraging AI and deep learning (CNNs) to classify paintings into 5 distinct artistic styles.  
